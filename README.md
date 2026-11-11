@@ -82,13 +82,4 @@
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cristian0Meirelles&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian0Meirelles&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
----
-
 <p align="center">💬 Ask me about <b>Java, React, AWS, AI integration and product</b> · ⚡ Fun fact: I was an English–Portuguese translator at the IGCS 2019 congress</p>
